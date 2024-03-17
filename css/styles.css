@@ -5,7 +5,6 @@ body {
 
 }
 
-
 /* Logo */
 .top-line-logo {
     font-family: "Raleway", sans-serif;
@@ -58,17 +57,72 @@ body {
 
 
 /* Studio */
-.top-line-menu-studio {
-    width: 48px;
-    height: 24px;
-    font-family: 'Roboto';
+.top-line-menu-studio {}
+
+/* Footer */
+.footer {
+    position: absolute;
+    width: 1440px;
+    height: 312px;
+    left: 0px;
+    top: 2988px;
+    background-color: #2E2F42;
+}
+
+.footer-logo {
+    width: 44px;
+    height: 21px;
+    font-family: 'Raleway';
     font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
     flex: none;
     order: 0;
     flex-grow: 0;
+    padding-top: 116px;
+    padding-bottom: 0;
+    padding-left: 156px;
+}
+
+.footer-logo-studio {
+    width: 71px;
+    height: 21px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+
+
+
+
+.footer-text {
+    position: absolute;
+    width: 264px;
+    height: 72px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+    padding-top: 16px;
+    padding-left: 156px;
 }
