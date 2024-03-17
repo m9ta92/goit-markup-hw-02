@@ -11,9 +11,6 @@ body {
         margin-top: 24px;
         margin-bottom: 24px;
         margin-left: 156px;
-    }
-
-    .top-line-logo-web {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
@@ -24,11 +21,5 @@ body {
     }
 
     .top-line-logo-studio {
-        font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 117%;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
         color: #2E2F42;
     }
