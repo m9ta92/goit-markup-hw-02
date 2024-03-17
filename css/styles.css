@@ -1,7 +1,8 @@
 body {
+    color: #434455;
     background-color: white;
     font-family: "Roboto", sans-serif;
-    second-family: "Raleway", sans-serif;
+}
 
 
     /* Top line */
@@ -13,7 +14,7 @@ body {
     }
 
     .top-line-logo-web {
-        font-family: var(--second-family);
+        font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 117%;
@@ -23,7 +24,7 @@ body {
     }
 
     .top-line-logo-studio {
-        font-family: var(--second-family);
+        font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 117%;
