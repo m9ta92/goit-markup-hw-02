@@ -2,7 +2,7 @@ body {
     color: #434455;
     background-color: white;
     font-family: "Roboto", sans-serif;
-    
+
 }
 
 /* Logo WEBSTUDIO */
@@ -15,6 +15,7 @@ body {
     text-transform: uppercase;
     color: #4D5AE5;
 }
+
 .logo-studio {
     font-weight: 700;
     font-size: 18px;
@@ -26,13 +27,6 @@ body {
 }
 
 /* NAV */
-.menu {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    margin-top: 24px;
-}
-
 .menu-studio {
     font-style: normal;
     font-weight: 500;
@@ -40,15 +34,13 @@ body {
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    margin-top: 24px;
-    margin-left: 76px;
-    margin-right: 40px;
 }
+
 .menu-portfolio {
-        font-style: normal;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 24px;
-        letter-spacing: 0.02em;
-        color: #2E2F42;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
