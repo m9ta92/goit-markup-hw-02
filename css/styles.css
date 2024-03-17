@@ -38,6 +38,9 @@ a:hover {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
+.menu:active {
+    color: #404bbf;
+}
 
 .address {
     font-style: normal;
@@ -49,6 +52,9 @@ a:hover {
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.address-email-tel:active {
+    color: #404bbf;
 }
 
 /* Hero image*/
