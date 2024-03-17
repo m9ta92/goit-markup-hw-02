@@ -2,6 +2,7 @@ body {
     color: #434455;
     background-color: white;
     font-family: "Roboto", sans-serif;
+    
 }
 
 /* Logo WEBSTUDIO */
@@ -13,11 +14,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
-    margin-top: 24px;
-    margin-bottom: 0px;
-    margin-left: 156px;
 }
-
 .logo-studio {
     font-weight: 700;
     font-size: 18px;
@@ -26,4 +23,32 @@ body {
     text-transform: uppercase;
     text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     color: #2E2F42;
+}
+
+/* NAV */
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-top: 24px;
+}
+
+.menu-studio {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    margin-top: 24px;
+    margin-left: 76px;
+    margin-right: 40px;
+}
+.menu-portfolio {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
 }
