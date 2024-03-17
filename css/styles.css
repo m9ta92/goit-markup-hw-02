@@ -39,7 +39,10 @@ a:hover {
     color: #2E2F42;
 }
 
-.menu:active:hover {
+.menu:hover {
+    color: #404bbf;
+}
+.menu:active {
     color: #404bbf;
 }
 
@@ -56,6 +59,9 @@ a:hover {
 }
 
 .address-email-tel:active {
+    color: #404bbf;
+}
+.address-email-tel:hover {
     color: #404bbf;
 }
 
