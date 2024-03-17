@@ -5,6 +5,9 @@ body {
 
 }
 
+
+
+
 /* Logo */
 .top-line-logo {
     font-family: "Raleway", sans-serif;
@@ -56,9 +59,6 @@ body {
 }
 
 
-/* Studio */
-.top-line-menu-studio {}
-
 /* Footer */
 .footer {
     position: absolute;
@@ -72,7 +72,7 @@ body {
 .footer-logo {
     width: 44px;
     height: 21px;
-    font-family: 'Raleway';
+    font-family: "Raleway", sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -93,7 +93,7 @@ body {
 .footer-logo-studio {
     width: 71px;
     height: 21px;
-    font-family: 'Raleway';
+    font-family: "Raleway", sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -107,10 +107,6 @@ body {
     order: 1;
     flex-grow: 0;
 }
-
-
-
-
 
 .footer-text {
     position: absolute;
