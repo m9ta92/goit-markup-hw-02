@@ -92,6 +92,10 @@ a:hover {
     cursor: pointer;
 }
 
+.hero-button:hover {
+    background-color: #404BBF;
+}
+
 /* Section-1 */
 .section-1 {
     font-weight: 500;
