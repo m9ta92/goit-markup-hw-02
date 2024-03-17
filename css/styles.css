@@ -16,7 +16,6 @@ body {
     text-transform: uppercase;
     color: #4D5AE5;
 }
-
 .logo-studio {
     font-weight: 700;
     font-size: 18px;
@@ -28,7 +27,7 @@ body {
 }
 
 /* Menu */
-.menu-studio {
+.menu {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -36,33 +35,7 @@ body {
     color: #2E2F42;
 }
 
-.menu-portfolio {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-
-.menu-contacts {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-
-/* info@devstudio.com */
-.menu-contacts-email {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-/* +11 (000) 111-11-11 */
-.menu-contacts-tel {
+.address {
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
