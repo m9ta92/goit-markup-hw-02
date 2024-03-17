@@ -67,7 +67,7 @@ a:hover {
     color: #404bbf;
 }
 
-/* Hero image*/
+/* Section 0 - Hero image*/
 .hero {
     background-color: #2e2f42;
 }
@@ -103,34 +103,25 @@ a:hover {
 }
 
 /* Section-1 */
-.section-1 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 120%;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
 
-.section-1-text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
 
-/* Our team */
+/* Section 2 - Our team */
 .section-2 {
     background-color: #F4F4FD;
 }
 
-.our-team {
+.our-team-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2E2F42;
+}
+
+.our-team {
+    background-color: #FFFFFF;
 }
 
 .our-team-name {
@@ -140,7 +131,6 @@ a:hover {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
-    background-color: #FFFFFF;
 }
 
 .our-team-position {
@@ -150,7 +140,6 @@ a:hover {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    background-color: #FFFFFF;
 }
 
 
