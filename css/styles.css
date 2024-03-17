@@ -121,7 +121,7 @@ a:hover {
 
 /* Footer */
 .footer {
-    background-color: #footer;
+    background-color: #2e2f42;
 }
 
 .footer-logo {
@@ -142,4 +142,12 @@ a:hover {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #F4F4FD;
+}
+
+.footer-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: F4F4FD;
 }
