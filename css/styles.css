@@ -2,7 +2,10 @@ body {
     color: #434455;
     background-color: white;
     font-family: "Roboto", sans-serif;
+}
 
+a:hover {
+    color: #404bbf;
 }
 
 /* NAV */
@@ -16,6 +19,7 @@ body {
     text-transform: uppercase;
     color: #4D5AE5;
 }
+
 .logo-studio {
     font-weight: 700;
     font-size: 18px;
@@ -33,7 +37,7 @@ body {
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    color: ;
+    color: #404bbf;
 }
 
 .address {
