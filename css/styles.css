@@ -2,123 +2,28 @@ body {
     color: #434455;
     background-color: white;
     font-family: "Roboto", sans-serif;
-
 }
 
-
-
-
-/* Logo */
-.top-line-logo {
+/* Logo WEBSTUDIO */
+.logo-web {
     font-family: "Raleway", sans-serif;
-    color: #4D5AE5;
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding: 0px;
-    position: absolute;
-    width: 115px;
-    height: 24px;
-    left: 156px;
-    top: 24px;
-    background: #FFFFFF;
-    border: 1px solid #000000;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: #4D5AE5;
+    margin-top: 24px;
+    margin-bottom: 0px;
+    margin-left: 156px;
 }
 
-.top-line-logo-studio {
-    font-family: "Raleway", sans-serif;
-    color: #2E2F42;
+.logo-studio {
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-}
-
-/* Menu Nav */
-.top-line-menu {
-    width: 261px;
-    height: 24px;
-    margin-left: 347px;
-    margin-top: 24px;
-    padding-top: 0;
-    padding-left: 0;
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 0px;
-    gap: 40px;
-}
-
-
-/* Footer */
-.footer {
-    position: absolute;
-    width: 1440px;
-    height: 312px;
-    left: 0px;
-    top: 2988px;
-    background-color: #2E2F42;
-}
-
-.footer-logo {
-    width: 44px;
-    height: 21px;
-    font-family: "Raleway", sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4D5AE5;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-    padding-top: 116px;
-    padding-bottom: 0;
-    padding-left: 156px;
-}
-
-.footer-logo-studio {
-    width: 71px;
-    height: 21px;
-    font-family: "Raleway", sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 21px;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #F4F4FD;
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-}
-
-.footer-text {
-    position: absolute;
-    width: 264px;
-    height: 72px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #F4F4FD;
-    padding-top: 16px;
-    padding-left: 156px;
+    color: #2E2F42;
 }
