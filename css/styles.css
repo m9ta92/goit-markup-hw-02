@@ -119,6 +119,41 @@ a:hover {
     color: #434455;
 }
 
+/* Our team */
+.section-2 {
+    background-color: #F4F4FD;
+}
+
+.our-team {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+}
+
+.our-team-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+    background-color: #FFFFFF;
+}
+
+.our-team-position {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+
 /* Footer */
 .footer {
     background-color: #2e2f42;
