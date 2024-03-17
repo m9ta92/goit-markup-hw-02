@@ -95,6 +95,9 @@ a:hover {
 .hero-button:hover {
     background-color: #404BBF;
 }
+.hero-button:focus {
+    background-color: #404BBF;
+}
 
 /* Section-1 */
 .section-1 {
