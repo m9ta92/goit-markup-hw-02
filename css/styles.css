@@ -111,12 +111,12 @@ a:hover {
     color: #2E2F42;
 }
 
-.ssection-one-text {
+.section-one-text {
     font-weight: 400;
     font-size: 16px;
-    color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /* Section 2 - Our team */
