@@ -67,7 +67,7 @@ a:hover {
     color: #404bbf;
 }
 
-/* Section 0 - Hero image*/
+/* Section - Hero image*/
 .hero {
     background-color: #2e2f42;
 }
@@ -103,6 +103,25 @@ a:hover {
 }
 
 /* Section-1 */
+.section-1 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.section-1-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+
+
+
 
 
 /* Section 2 - Our team */
@@ -141,6 +160,9 @@ a:hover {
     text-align: center;
     color: #434455;
 }
+
+/* Section-3 */
+
 
 
 /* Footer */
