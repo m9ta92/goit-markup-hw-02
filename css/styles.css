@@ -103,7 +103,7 @@ a:hover {
 }
 
 /* Section-1 */
-.section-1 {
+.section-one {
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -111,13 +111,15 @@ a:hover {
     color: #2E2F42;
 }
 
-.section-1-text {
+.ssection-one-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+
 
 
 
