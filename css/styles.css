@@ -114,9 +114,9 @@ a:hover {
 .ssection-one-text {
     font-weight: 400;
     font-size: 16px;
+    color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 /* Section 2 - Our team */
@@ -163,6 +163,7 @@ a:hover {
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2E2F42;
 }
 
