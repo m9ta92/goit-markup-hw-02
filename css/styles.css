@@ -106,7 +106,7 @@ a:hover {
 .section-one {
     font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
@@ -118,13 +118,6 @@ a:hover {
     letter-spacing: 0.02em;
     color: #434455;
 }
-
-
-
-
-
-
-
 
 /* Section 2 - Our team */
 .our-team-section {
@@ -164,7 +157,18 @@ a:hover {
 }
 
 /* Section-3 */
+.our-portfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+}
 
+.our-portfolio-project {
+    background-color: #FFFFFF;
+}
 
 
 /* Footer */
